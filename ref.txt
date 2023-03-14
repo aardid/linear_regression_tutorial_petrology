@@ -1,0 +1,2 @@
+https://github.com/andymcdgeo/Petrophysics-Python-Series/blob/master/25%20-%20Semi-Log%20Crossplot%20Regression.ipynb
+https://www.youtube.com/watch?v=hc6IqwliHAo
